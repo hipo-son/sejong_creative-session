@@ -1,2 +1,3 @@
 # sejong_creative-session
-  assignment 1-5
+##########
+[세종 창의학기제](https://classic.sejong.ac.kr/info/MAIN_04_03.do).
