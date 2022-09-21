@@ -1,6 +1,6 @@
 # sejong_creative-session
 
-* 과제
+* 실습
   * 1
   * 2
   * 3
