@@ -1,11 +1,3 @@
-# sejong_creative-session
+# 신경망 첫걸음 실습
 
-[세종 창의학기제](https://classic.sejong.ac.kr/info/MAIN_04_03.do)
-
-[파이썬: 점프 투 파이썬](https://wikidocs.net/book/1)
-
-[파이썬: matplotlib](https://codetorial.net/matplotlib/index.html)
-
-[파이토치 튜토리얼](https://tutorials.pytorch.kr/)
-
-[Simple NN](https://github.com/MDIL-SNU/SIMPLE-NN_v2)
+data 폴더 안에 zip 파일을 압축해제하고 사용
