@@ -8,4 +8,4 @@
 
 [파이토치 튜토리얼](https://tutorials.pytorch.kr/)
 
-[]
+[Simple NN](https://github.com/MDIL-SNU/SIMPLE-NN_v2)
