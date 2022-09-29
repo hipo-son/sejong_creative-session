@@ -1,11 +1,6 @@
-# sejong_creative-session
+# 물질의 2차원 운동 시뮬레이션
 
-[세종 창의학기제](https://classic.sejong.ac.kr/info/MAIN_04_03.do)
+2차원 운동 시뮬레이션입니다.
 
-[파이썬: 점프 투 파이썬](https://wikidocs.net/book/1)
+학과 수업에서 배운 뉴턴 역학을 기반으로 2차원 운동을 시뮬레이션 해보았습니다.
 
-[파이썬: matplotlib](https://codetorial.net/matplotlib/index.html)
-
-[파이토치 튜토리얼](https://tutorials.pytorch.kr/)
-
-[Simple NN](https://github.com/MDIL-SNU/SIMPLE-NN_v2)
